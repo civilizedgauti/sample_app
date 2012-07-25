@@ -1,0 +1,1 @@
+Sample Static rails app
